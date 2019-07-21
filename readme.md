@@ -11,6 +11,3 @@ Allows only 3 submissions per day per user on a chosen subreddit.
 - Edit conf.ini with all your juicy details
 - Run it ```python3 run.py```
 
-###### TODO
-
-- Variable daily submission count
