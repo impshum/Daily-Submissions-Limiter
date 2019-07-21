@@ -1,0 +1,6 @@
+praw
+threading
+time
+schedule
+tinydb
+configparser
